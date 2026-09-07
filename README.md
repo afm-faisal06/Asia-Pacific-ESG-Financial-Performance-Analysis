@@ -2,6 +2,7 @@
 
 A Tableau Story and business analyst report examining how ESG (Environmental, Social & Governance) performance relates to governance quality and financial outcomes across nine Asia-Pacific markets (Australia, Bangladesh, China, India, Indonesia, South Korea, Malaysia, New Zealand, Singapore), 2010–2024.
 
+**Live dashboard:** [Tableau Public Story](https://public.tableau.com/views/23107667_Faisal_Viz/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Overview
 
