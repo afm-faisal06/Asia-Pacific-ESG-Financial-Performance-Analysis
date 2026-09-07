@@ -25,7 +25,7 @@ Built from a firm-year panel (LSEG Workspace / Compustat Global, ~17,000 ESG-dis
 | `23107667_Faisal_Report.docx` | Business analyst report (Executive Summary, Findings, Recommendations, Conclusion, references) |
 | `A3.csv` | Underlying firm-year panel data (LSEG/Compustat) |
 
-> **Note:** `A3.csv` is ~109 MB, which is over GitHub's 100 MB per-file limit. So, a Googlr drive link is attached here: https://drive.google.com/file/d/1yy07lxnYhG4LUgNEtcAIPQyOC5mnT7Lh/view?usp=drive_link
+> **Note:** `A3.csv` is ~105 MB, which is over GitHub's 100 MB per-file limit. So, a Googlr drive link is attached here: https://drive.google.com/file/d/1yy07lxnYhG4LUgNEtcAIPQyOC5mnT7Lh/view?usp=drive_link
 
 ## Tools
 
