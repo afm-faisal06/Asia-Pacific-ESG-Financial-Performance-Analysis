@@ -21,11 +21,11 @@ Built from a firm-year panel (LSEG Workspace / Compustat Global, ~17,000 ESG-dis
 
 | File | Description |
 |---|---|
-| `23107667_Faisal_Viz.twbx` | Packaged Tableau workbook (3-dashboard Story, calculated fields, forecast, what-if parameter) |
 | `23107667_Faisal_Report.docx` | Business analyst report (Executive Summary, Findings, Recommendations, Conclusion, references) |
+| `23107667_Faisal_Viz.twbx` | Packaged Tableau workbook (3-dashboard Story, calculated fields, forecast, what-if parameter) |
 | `A3.csv` | Underlying firm-year panel data (LSEG/Compustat) |
 
-> **Note:** `A3.csv` is ~105 MB, which is over GitHub's 100 MB per-file limit. So, a Googlr drive link is attached here: https://drive.google.com/file/d/1yy07lxnYhG4LUgNEtcAIPQyOC5mnT7Lh/view?usp=drive_link
+> **Note:** `A3.csv` is ~105 MB, which is over GitHub's 100 MB per-file limit. So, a Google drive link is attached here: https://drive.google.com/file/d/1yy07lxnYhG4LUgNEtcAIPQyOC5mnT7Lh/view?usp=drive_link
 
 ## Tools
 
